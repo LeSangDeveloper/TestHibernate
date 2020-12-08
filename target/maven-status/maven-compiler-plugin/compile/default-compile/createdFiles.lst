@@ -1,0 +1,4 @@
+org/example/pojo/Category.class
+org/example/pojo/Product.class
+org/example/HibernateUtil.class
+org/example/Demo.class
